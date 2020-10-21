@@ -4,15 +4,16 @@ using UnityEngine;
 
 public class CharacterMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+		private void Update()
+	{
+		
+	}
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
+
+
+#if UNITY_ANDROID
+	Debug.Log("Unity Android Connection Complete");	
+#endif
+
 }
