@@ -1,12 +1,465 @@
 fileFormatVersion: 2
 guid: e9be086c04a7e9f43a08a4ae552f9303
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -742264259603384043
+    second: Bush_strip60_0
+  - first:
+      213: -7420876024074306876
+    second: Bush_strip60_1
+  - first:
+      213: -301771492825958607
+    second: Bush_strip60_2
+  - first:
+      213: 4200820339182769770
+    second: Bush_strip60_3
+  - first:
+      213: -8524997547504685407
+    second: Bush_strip60_4
+  - first:
+      213: 3736989259643311682
+    second: Bush_strip60_5
+  - first:
+      213: 9025185801314175887
+    second: Bush_strip60_6
+  - first:
+      213: -935793762710500283
+    second: Bush_strip60_7
+  - first:
+      213: -6738847350661171427
+    second: Bush_strip60_8
+  - first:
+      213: -1889098356533082897
+    second: Bush_strip60_9
+  - first:
+      213: 1804100527445963081
+    second: Bush_strip60_10
+  - first:
+      213: 932123800559322481
+    second: Bush_strip60_11
+  - first:
+      213: 4247780824557186004
+    second: Bush_strip60_12
+  - first:
+      213: 1467273061949161190
+    second: Bush_strip60_13
+  - first:
+      213: 3781631656085818504
+    second: Bush_strip60_14
+  - first:
+      213: -2431517672487428671
+    second: Bush_strip60_15
+  - first:
+      213: -6257279235608838412
+    second: Bush_strip60_16
+  - first:
+      213: 5147061570569130068
+    second: Bush_strip60_17
+  - first:
+      213: -1983153319257874157
+    second: Bush_strip60_18
+  - first:
+      213: -5350421345646084246
+    second: Bush_strip60_19
+  - first:
+      213: 8324185450971534330
+    second: Bush_strip60_20
+  - first:
+      213: 4250844106057459457
+    second: Bush_strip60_21
+  - first:
+      213: 9203128823445618129
+    second: Bush_strip60_22
+  - first:
+      213: -2230929308112412063
+    second: Bush_strip60_23
+  - first:
+      213: 7099082217752132859
+    second: Bush_strip60_24
+  - first:
+      213: -4073213277242774806
+    second: Bush_strip60_25
+  - first:
+      213: -7750870879261271392
+    second: Bush_strip60_26
+  - first:
+      213: 4320955002238888877
+    second: Bush_strip60_27
+  - first:
+      213: -7513476174346188433
+    second: Bush_strip60_28
+  - first:
+      213: -2992539774277054335
+    second: Bush_strip60_29
+  - first:
+      213: 6205765170393027931
+    second: Bush_strip60_30
+  - first:
+      213: -8702458941677595976
+    second: Bush_strip60_31
+  - first:
+      213: 5178656930029400435
+    second: Bush_strip60_32
+  - first:
+      213: 3348978560986089870
+    second: Bush_strip60_33
+  - first:
+      213: -8722702903529379465
+    second: Bush_strip60_34
+  - first:
+      213: -4063216415801508295
+    second: Bush_strip60_35
+  - first:
+      213: -8421097464398777779
+    second: Bush_strip60_36
+  - first:
+      213: 1988082242256031254
+    second: Bush_strip60_37
+  - first:
+      213: -5069679934320373093
+    second: Bush_strip60_38
+  - first:
+      213: -7001289571498797254
+    second: Bush_strip60_39
+  - first:
+      213: 5125968928503966873
+    second: Bush_strip60_40
+  - first:
+      213: 3124736656261750725
+    second: Bush_strip60_41
+  - first:
+      213: 2774205930617846257
+    second: Bush_strip60_42
+  - first:
+      213: -4771626325417216660
+    second: Bush_strip60_43
+  - first:
+      213: 6110469626623968554
+    second: Bush_strip60_44
+  - first:
+      213: -3562905166999090143
+    second: Bush_strip60_45
+  - first:
+      213: -2138388136733918501
+    second: Bush_strip60_46
+  - first:
+      213: 2816741204800157383
+    second: Bush_strip60_47
+  - first:
+      213: 3290225896990579721
+    second: Bush_strip60_48
+  - first:
+      213: -1572227530618850155
+    second: Bush_strip60_49
+  - first:
+      213: -2418971790504688189
+    second: Bush_strip60_50
+  - first:
+      213: -8930842584196524629
+    second: Bush_strip60_51
+  - first:
+      213: -5986426969893378485
+    second: Bush_strip60_52
+  - first:
+      213: 3965437987297572563
+    second: Bush_strip60_53
+  - first:
+      213: 4084652620339832
+    second: Bush_strip60_54
+  - first:
+      213: 6609646826309139518
+    second: Bush_strip60_55
+  - first:
+      213: -9138070188044748302
+    second: Bush_strip60_56
+  - first:
+      213: -5500333370776512804
+    second: Bush_strip60_57
+  - first:
+      213: -657241050140831584
+    second: Bush_strip60_58
+  - first:
+      213: 6194519740576025454
+    second: Bush_strip60_59
+  - first:
+      213: -93937597764353500
+    second: Bush_strip60_60
+  - first:
+      213: 5097745186182388811
+    second: Bush_strip60_61
+  - first:
+      213: 6092682704181842987
+    second: Bush_strip60_62
+  - first:
+      213: 6411774788198353515
+    second: Bush_strip60_63
+  - first:
+      213: -797459265190167437
+    second: Bush_strip60_64
+  - first:
+      213: -1738479111064335199
+    second: Bush_strip60_65
+  - first:
+      213: -7000693679829938963
+    second: Bush_strip60_66
+  - first:
+      213: 8992320208873678035
+    second: Bush_strip60_67
+  - first:
+      213: 118440478779356883
+    second: Bush_strip60_68
+  - first:
+      213: -3230316436914595900
+    second: Bush_strip60_69
+  - first:
+      213: 8871860289746903001
+    second: Bush_strip60_70
+  - first:
+      213: 5608235093470259832
+    second: Bush_strip60_71
+  - first:
+      213: -7029192583839713508
+    second: Bush_strip60_72
+  - first:
+      213: 6464493585641823062
+    second: Bush_strip60_73
+  - first:
+      213: 8849644362434205634
+    second: Bush_strip60_74
+  - first:
+      213: -1957736997934751268
+    second: Bush_strip60_75
+  - first:
+      213: -259831280267400305
+    second: Bush_strip60_76
+  - first:
+      213: -2140394308376328237
+    second: Bush_strip60_77
+  - first:
+      213: -2178581423727703380
+    second: Bush_strip60_78
+  - first:
+      213: -526755556637526337
+    second: Bush_strip60_79
+  - first:
+      213: -945399740654440510
+    second: Bush_strip60_80
+  - first:
+      213: -5755721165235621916
+    second: Bush_strip60_81
+  - first:
+      213: -9181327693920883558
+    second: Bush_strip60_82
+  - first:
+      213: -4639555598334586745
+    second: Bush_strip60_83
+  - first:
+      213: -8706641055562960183
+    second: Bush_strip60_84
+  - first:
+      213: 7092054556822796122
+    second: Bush_strip60_85
+  - first:
+      213: -2299331809993367043
+    second: Bush_strip60_86
+  - first:
+      213: 6664095611389086588
+    second: Bush_strip60_87
+  - first:
+      213: 1926136799208306978
+    second: Bush_strip60_88
+  - first:
+      213: 551106203087160064
+    second: Bush_strip60_89
+  - first:
+      213: -8298469397354962928
+    second: Bush_strip60_90
+  - first:
+      213: 789984187124608771
+    second: Bush_strip60_91
+  - first:
+      213: 4416358286627475392
+    second: Bush_strip60_92
+  - first:
+      213: -9195514535778461255
+    second: Bush_strip60_93
+  - first:
+      213: 9086856625024490954
+    second: Bush_strip60_94
+  - first:
+      213: -6650907142648341364
+    second: Bush_strip60_95
+  - first:
+      213: 3384402683704118173
+    second: Bush_strip60_96
+  - first:
+      213: 6218626207506295351
+    second: Bush_strip60_97
+  - first:
+      213: -3939590046833401439
+    second: Bush_strip60_98
+  - first:
+      213: 3610428677368907164
+    second: Bush_strip60_99
+  - first:
+      213: -6479015201023852919
+    second: Bush_strip60_100
+  - first:
+      213: 6632508423332034857
+    second: Bush_strip60_101
+  - first:
+      213: 7939219680942567324
+    second: Bush_strip60_102
+  - first:
+      213: 8836107514782693801
+    second: Bush_strip60_103
+  - first:
+      213: -197801099047551743
+    second: Bush_strip60_104
+  - first:
+      213: -7048197355112719887
+    second: Bush_strip60_105
+  - first:
+      213: 5717244830090846051
+    second: Bush_strip60_106
+  - first:
+      213: -8782611343193294386
+    second: Bush_strip60_107
+  - first:
+      213: -4294624761957644378
+    second: Bush_strip60_108
+  - first:
+      213: 3301070555552800668
+    second: Bush_strip60_109
+  - first:
+      213: 5221064452791795417
+    second: Bush_strip60_110
+  - first:
+      213: -7293788635699679039
+    second: Bush_strip60_111
+  - first:
+      213: -7133200928963429952
+    second: Bush_strip60_112
+  - first:
+      213: 7406056317943228718
+    second: Bush_strip60_113
+  - first:
+      213: 2848840648683317268
+    second: Bush_strip60_114
+  - first:
+      213: -4138430141866732707
+    second: Bush_strip60_115
+  - first:
+      213: -8716263960126951817
+    second: Bush_strip60_116
+  - first:
+      213: -1716325392462343220
+    second: Bush_strip60_117
+  - first:
+      213: -4891678057848010870
+    second: Bush_strip60_118
+  - first:
+      213: 1886059908418047240
+    second: Bush_strip60_119
+  - first:
+      213: -9119480621414953314
+    second: Bush_strip60_120
+  - first:
+      213: 4284013215213956479
+    second: Bush_strip60_121
+  - first:
+      213: 5689903536228641515
+    second: Bush_strip60_122
+  - first:
+      213: -701662540915669309
+    second: Bush_strip60_123
+  - first:
+      213: -6351535458570761957
+    second: Bush_strip60_124
+  - first:
+      213: 7851856196238916169
+    second: Bush_strip60_125
+  - first:
+      213: 1705782219921698923
+    second: Bush_strip60_126
+  - first:
+      213: 1299805764487822561
+    second: Bush_strip60_127
+  - first:
+      213: 4316660199291010632
+    second: Bush_strip60_128
+  - first:
+      213: 5095206096715233444
+    second: Bush_strip60_129
+  - first:
+      213: 619623172946321558
+    second: Bush_strip60_130
+  - first:
+      213: -1598976167587377848
+    second: Bush_strip60_131
+  - first:
+      213: -106441774360852304
+    second: Bush_strip60_132
+  - first:
+      213: -8711440911245834460
+    second: Bush_strip60_133
+  - first:
+      213: -5861483783389047827
+    second: Bush_strip60_134
+  - first:
+      213: -1751841768247731421
+    second: Bush_strip60_135
+  - first:
+      213: -5746687956106030720
+    second: Bush_strip60_136
+  - first:
+      213: -3537278729793069658
+    second: Bush_strip60_137
+  - first:
+      213: 5069093435063337738
+    second: Bush_strip60_138
+  - first:
+      213: -1475211484679596693
+    second: Bush_strip60_139
+  - first:
+      213: 6703670214719852288
+    second: Bush_strip60_140
+  - first:
+      213: 6667973887519021511
+    second: Bush_strip60_141
+  - first:
+      213: -2150013082932186607
+    second: Bush_strip60_142
+  - first:
+      213: 3961454528286849315
+    second: Bush_strip60_143
+  - first:
+      213: -2097751918235191619
+    second: Bush_strip60_144
+  - first:
+      213: 5659283820940440018
+    second: Bush_strip60_145
+  - first:
+      213: 8963476061736940837
+    second: Bush_strip60_146
+  - first:
+      213: 963742060049977772
+    second: Bush_strip60_147
+  - first:
+      213: -7022351305837279757
+    second: Bush_strip60_148
+  - first:
+      213: -8436517311599487321
+    second: Bush_strip60_149
+  - first:
+      213: 7330881645880028235
+    second: Bush_strip60_150
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -32,16 +485,16 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: 2
     mipBias: -100
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -50,9 +503,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -121,13 +574,1285 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bush_strip60_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193fdca692f2b5f0800000000000000
+      internalID: -742264259603384043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca76d6d290c30990800000000000000
+      internalID: -7420876024074306876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137f4c61d64efcbf0800000000000000
+      internalID: -301771492825958607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66993277df4c4a30800000000000000
+      internalID: 4200820339182769770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae28edd5ef11b980800000000000000
+      internalID: -8524997547504685407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2465d76aee37cd330800000000000000
+      internalID: 3736989259643311682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b0b373ba6ef3d70800000000000000
+      internalID: 9025185801314175887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c4d96e7846303f0800000000000000
+      internalID: -935793762710500283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17324cd90eca72a0800000000000000
+      internalID: -6738847350661171427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe44219bd0398c5e0800000000000000
+      internalID: -1889098356533082897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f2850fd3790910800000000000000
+      internalID: 1804100527445963081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_11
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175860378a19fec00800000000000000
+      internalID: 932123800559322481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db627b772623fa30800000000000000
+      internalID: 4247780824557186004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_13
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eebafd631dcc5410800000000000000
+      internalID: 1467273061949161190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_14
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c0e5c84fd0b7430800000000000000
+      internalID: 3781631656085818504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_15
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd5d424f83814ed0800000000000000
+      internalID: -2431517672487428671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe7b1d00bda929a0800000000000000
+      internalID: -6257279235608838412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_17
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45056d66a390e6740800000000000000
+      internalID: 5147061570569130068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_18
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3116f76309c6a74e0800000000000000
+      internalID: -1983153319257874157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_19
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff816422c7fb5b0800000000000000
+      internalID: -5350421345646084246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_20
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af312a17092758370800000000000000
+      internalID: 8324185450971534330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_21
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1072e1941380efa30800000000000000
+      internalID: 4250844106057459457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_22
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd72a797e418bf70800000000000000
+      internalID: 9203128823445618129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_23
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162a3fe3d952a01e0800000000000000
+      internalID: -2230929308112412063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc786c1aa1058260800000000000000
+      internalID: 7099082217752132859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_25
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2a8bea1a0977c0800000000000000
+      internalID: -4073213277242774806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_26
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa56bd40006f6490800000000000000
+      internalID: -7750870879261271392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_27
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab65ee5ead17fb30800000000000000
+      internalID: 4320955002238888877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_28
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f690cbf3a35cab790800000000000000
+      internalID: -7513476174346188433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_29
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1801df13eec5876d0800000000000000
+      internalID: -2992539774277054335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_30
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5594ccfa8e4f1650800000000000000
+      internalID: 6205765170393027931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_31
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b292ec33b7aa3780800000000000000
+      internalID: -8702458941677595976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_32
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37174084a094ed740800000000000000
+      internalID: 5178656930029400435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_33
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8989ffe146f97e20800000000000000
+      internalID: 3348978560986089870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_34
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779ecd19cebb2f680800000000000000
+      internalID: -8722702903529379465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_35
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e7d9a923e8c97c0800000000000000
+      internalID: -4063216415801508295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_36
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4271971970422b80800000000000000
+      internalID: -8421097464398777779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_37
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ecee91446179b10800000000000000
+      internalID: 1988082242256031254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_38
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9298e5c5f0e4a9b0800000000000000
+      internalID: -5069679934320373093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_39
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37da29aa3c66de90800000000000000
+      internalID: -7001289571498797254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_40
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2b29f499132740800000000000000
+      internalID: 5125968928503966873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_41
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf9f1dee6b4d5b20800000000000000
+      internalID: 3124736656261750725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_42
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f932447895ff7620800000000000000
+      internalID: 2774205930617846257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_43
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65ba906327c7cdb0800000000000000
+      internalID: -4771626325417216660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_44
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a254cb130cfbcc450800000000000000
+      internalID: 6110469626623968554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_45
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c8d90b0a40e8ec0800000000000000
+      internalID: -3562905166999090143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_46
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdab01eb15be252e0800000000000000
+      internalID: -2138388136733918501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_47
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6b158b333171720800000000000000
+      internalID: 2816741204800157383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_48
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c1aec550b39ad20800000000000000
+      internalID: 3290225896990579721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_49
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594bf5314635e2ae0800000000000000
+      internalID: -1572227530618850155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_50
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5074909f51e6ed0800000000000000
+      internalID: -2418971790504688189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_51
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5d800ccf54f0480800000000000000
+      internalID: -8930842584196524629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_52
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46efa96360fbeca0800000000000000
+      internalID: -5986426969893378485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_53
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d636b3f6d0180730800000000000000
+      internalID: 3965437987297572563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_54
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a577c48f28e0000800000000000000
+      internalID: 4084652620339832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_55
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cb1f4e4ce2abb50800000000000000
+      internalID: 6609646826309139518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_56
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9710d549d0f2180800000000000000
+      internalID: -9138070188044748302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_57
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd693a8f0f3eaa3b0800000000000000
+      internalID: -5500333370776512804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_58
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01d824fb201e6f0800000000000000
+      internalID: -657241050140831584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bush_strip60_59
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 0
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bcd2352ea57f550800000000000000
+      internalID: 6194519740576025454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: de74977f9aee52e4482ecb45b9e41d8c
     internalID: 0
     vertices: []
     indices: 
