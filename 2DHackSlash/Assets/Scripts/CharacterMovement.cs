@@ -4,45 +4,99 @@ using UnityEngine;
 
 public class CharacterMovement : MonoBehaviour
 {
+	//References
 	[SerializeField] private Joystick joystick;
-	[SerializeField] private float moveSpeed = 40f;
+	[SerializeField] private Animator anim;
+	[SerializeField] private SpriteRenderer spriteRenderer;
+	//Values
+	[SerializeField] private float moveSpeed = 10f;
+	[SerializeField] private float jumpForce = 10f;
+	[SerializeField] private Transform groundCheck;
 
-	private float horizontalMovement = 0f;
-	private float verticalMovement = 0f;
+	public const string RIGHT = "right";
+	public const string LEFT = "left";
+
+	private Rigidbody2D rigid;
+	private string buttonPressed;
 	private bool isJumping = false;
-	private bool isCrouching = false;
+	private bool lastFlip;
+	private float distToGround;
+
+
+	private void Awake()
+	{
+		rigid = GetComponent<Rigidbody2D>();
+		anim = GetComponent<Animator>();
+	}
+
+	private bool IsGrounded()
+	{
+		return Physics2D.OverlapCircle(groundCheck.position, 0.5f, LayerMaskUtility.Ground);
+	}
+
+	private void OnDrawGizmos()
+	{
+		Gizmos.DrawSphere(groundCheck.position, 0.5f);
+	}
 
 	private void Update()
 	{
-#if UNITY_EDITOR
-		PCMovement();
-#endif
+		if (Input.GetKey(KeyCode.LeftArrow))
+		{
+			spriteRenderer.flipX = true;
+			anim.SetBool("isRunning", true);
+			buttonPressed = LEFT;
+		}
+		else if (Input.GetKey(KeyCode.RightArrow))
+		{
+			spriteRenderer.flipX = false;
+			anim.SetBool("isRunning", true);
+			buttonPressed = RIGHT;
+		}
+		else
+		{
+			spriteRenderer.flipX = lastFlip;
 
-#if UNITY_ANDROID
-		MobileMovement();
-#endif
-	}
+			anim.SetBool("isRunning", false);
+			buttonPressed = null;
+		}
 
-	private void PCMovement()
-	{
-		Debug.Log("Hallo Movement"); 
-		horizontalMovement = Input.GetAxisRaw("Horizontal") * moveSpeed * Time.deltaTime;
+		lastFlip = spriteRenderer.flipX;
 
-		transform.Translate(horizontalMovement, 0, 0);
-
-		if (Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Jump"))
+		if (Input.GetKeyDown(KeyCode.Space) && IsGrounded())
 		{
 			Debug.Log("Hallo Jump");
 			isJumping = true;
 		}
+	}
 
-		if (Input.GetKeyDown(KeyCode.LeftControl))
+	private void FixedUpdate()
+	{
+		if (buttonPressed == RIGHT)
 		{
-			Debug.Log("Hallo Crouch");
-			isCrouching = true;
+			rigid.velocity = new Vector2(moveSpeed, 0);
+		}
+		else if (buttonPressed == LEFT)
+		{
+			rigid.velocity = new Vector2(-moveSpeed, 0);
+		}
+		else
+		{
+			rigid.velocity = new Vector2(0, 0);
+		}
+
+		if (isJumping)
+		{
+			rigid.velocity = new Vector2(0, jumpForce);
+		}
+		else if(!IsGrounded())
+		{
+			isJumping = false;
+			//rigid.velocity = new Vector2(0, 0);
 		}
 	}
 
+	/*
 	private void MobileMovement()
 	{
 		if(joystick.Horizontal >= 0.2f)
@@ -76,4 +130,17 @@ public class CharacterMovement : MonoBehaviour
 			isCrouching = false;
 		}
 	}
+	*/
 }
+
+/*
+
+#if UNITY_EDITOR
+	PCMovement();
+#endif
+
+#if UNITY_ANDROID
+		MobileMovement();
+#endif
+
+*/
